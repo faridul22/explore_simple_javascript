@@ -27,3 +27,4 @@ console.log(division)
 
 division /= 2;
 console.log(division)
+
